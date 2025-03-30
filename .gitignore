@@ -1,0 +1,5 @@
+Data_tenpercent.csv
+.ipynb_checkpoints
+.pt_tmp
+lightning_logs
+saved_models
